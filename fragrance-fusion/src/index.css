@@ -1,0 +1,18 @@
+.navbar-nav .nav-link {
+  font-size: 1rem;
+  margin-right: 15px;
+}
+
+.navbar .form-control {
+  width: 250px;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+@media (max-width: 768px) {
+  .navbar .form-control {
+    width: 100%;
+  }
+}
